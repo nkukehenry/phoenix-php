@@ -1,2 +1,5 @@
-/vendor/
+/vendor/bin
+/vendor/composer
+/vendor/paragonie
+/vendor/phpseclib
 composer.lock
