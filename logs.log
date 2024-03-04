@@ -1,0 +1,582 @@
+
+
+2024-03-03 20:12:04
+
+{"responseCode":"90063","responseMessage":"Client is already Authorised to transact","requestReference":"65e4cb7d9a68b","response":null}
+
+
+2024-03-03 20:22:33
+
+{"responseCode":"90063","responseMessage":"Client is already Authorised to transact","requestReference":"65e4cdf89740b","response":null}
+
+
+2024-03-03 20:23:15
+
+{"responseCode":"90063","responseMessage":"Client is already Authorised to transact","requestReference":"65e4ce20a3526","response":null}
+
+
+2024-03-03 20:23:20
+
+{"responseCode":"90063","responseMessage":"Client is already Authorised to transact","requestReference":"65e4ce27807dd","response":null}
+
+
+2024-03-03 20:25:46
+
+{"responseCode":"90063","responseMessage":"Client is already Authorised to transact","requestReference":"65e4ceaf142cf","response":null}
+
+
+2024-03-03 20:28:20
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4cf493deee","response":null}
+
+
+2024-03-03 20:29:53
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4cfaa95fe9","response":null}
+
+
+2024-03-03 20:30:17
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4cfb62fd36","response":null}
+
+
+2024-03-03 20:31:22
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4cff30e15b","response":null}
+
+
+2024-03-03 20:31:33
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d00e65ab7","response":null}
+
+
+2024-03-03 20:31:57
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d026ca4f9","response":null}
+
+
+2024-03-03 20:32:25
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d03765813","response":null}
+
+
+2024-03-03 20:32:35
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d04c80cce","response":null}
+
+
+2024-03-03 20:33:02
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d0682bddb","response":null}
+
+
+2024-03-03 20:33:12
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d0723e6f0","response":null}
+
+
+2024-03-03 20:33:48
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d095b4706","response":null}
+
+
+2024-03-03 20:34:53
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d0d6d7504","response":null}
+
+
+2024-03-03 20:36:01
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d10f2f191","response":null}
+
+
+2024-03-03 20:36:51
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d143e80a7","response":null}
+
+
+2024-03-03 20:38:53
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d1c606371","response":null}
+
+
+2024-03-03 20:39:11
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4d1d90284d","response":null}
+
+
+2024-03-03 20:39:25
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4d1ecc72da","response":null}
+
+
+2024-03-03 20:41:16
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4d25b53f01","response":null}
+
+
+2024-03-03 22:39:15
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4edfcad5b6","response":null}
+
+
+2024-03-03 22:39:29
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4ee0a24d4b","response":null}
+
+
+2024-03-03 22:39:39
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4ee144dc13","response":null}
+
+
+2024-03-03 22:57:17
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f22b515e5","response":null}
+
+
+2024-03-03 22:58:40
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f28fce5c8","response":null}
+
+
+2024-03-03 23:03:02
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f38470c58","response":null}
+
+
+2024-03-03 23:03:33
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f3b4a63a5","response":null}
+
+
+2024-03-03 23:06:48
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f471975d1","response":null}
+
+
+2024-03-03 23:08:04
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f4b2274e8","response":null}
+
+
+2024-03-03 23:08:20
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f4d351072","response":null}
+
+
+2024-03-03 23:08:35
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f4e2a1562","response":null}
+
+
+2024-03-03 23:08:47
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f4e803058","response":null}
+
+
+2024-03-03 23:09:09
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f4f3358e2","response":null}
+
+
+2024-03-03 23:09:33
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f51ca6221","response":null}
+
+
+2024-03-03 23:09:49
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f52cadd6f","response":null}
+
+
+2024-03-03 23:11:33
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f582b4dbe","response":null}
+
+
+2024-03-03 23:12:05
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f5ae0fd5c","response":null}
+
+
+2024-03-03 23:12:17
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f5ba22e65","response":null}
+
+
+2024-03-03 23:12:39
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f5cbb236b","response":null}
+
+
+2024-03-03 23:14:49
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f65852da5","response":null}
+
+
+2024-03-03 23:15:52
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f691271fc","response":null}
+
+
+2024-03-03 23:16:07
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f6a69e42c","response":null}
+
+
+2024-03-03 23:18:04
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f7152de94","response":null}
+
+
+2024-03-03 23:18:19
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f7248fe9d","response":null}
+
+
+2024-03-03 23:18:30
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f72f44f4a","response":null}
+
+
+2024-03-03 23:18:42
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f73b55bb6","response":null}
+
+
+2024-03-03 23:19:08
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f75baf53f","response":null}
+
+
+2024-03-03 23:23:57
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f87cc76da","response":null}
+
+
+2024-03-03 23:24:29
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f88a6d50a","response":null}
+
+
+2024-03-03 23:24:44
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f8a5a5735","response":null}
+
+
+2024-03-03 23:25:15
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f8ca9e6c0","response":null}
+
+
+2024-03-03 23:26:40
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f9199efbf","response":null}
+
+
+2024-03-03 23:26:53
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f92ccd7be","response":null}
+
+
+2024-03-03 23:27:18
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f93f3bfc4","response":null}
+
+
+2024-03-03 23:27:28
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f9494e328","response":null}
+
+
+2024-03-03 23:27:38
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f953df652","response":null}
+
+
+2024-03-03 23:28:00
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f95e3bab4","response":null}
+
+
+2024-03-03 23:28:12
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4f97b689ee","response":null}
+
+
+2024-03-03 23:29:53
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4f9da92e0a","response":null}
+
+
+2024-03-03 23:31:26
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4fa2bcb960","response":null}
+
+
+2024-03-03 23:31:39
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4fa4a93236","response":null}
+
+
+2024-03-03 23:33:18
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e4faa7a19ba","response":null}
+
+
+2024-03-03 23:33:31
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4faba89d72","response":null}
+
+
+2024-03-03 23:35:10
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4fb1d3437d","response":null}
+
+
+2024-03-03 23:39:01
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4fc04b3e37","response":null}
+
+
+2024-03-03 23:43:57
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4fd2cc9cc7","response":null}
+
+
+2024-03-03 23:54:13
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e4ff94afd23","response":null}
+
+
+2024-03-04 00:02:20
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5017523950","response":null}
+
+
+2024-03-04 00:02:30
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5017fb2860","response":null}
+
+
+2024-03-04 00:02:42
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50191bf023","response":null}
+
+
+2024-03-04 00:03:37
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e501b70c157","response":null}
+
+
+2024-03-04 00:03:50
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e501d52548b","response":null}
+
+
+2024-03-04 00:06:05
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5025c5f7bb","response":null}
+
+
+2024-03-04 00:08:58
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5030954b15","response":null}
+
+
+2024-03-04 00:09:37
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e503310cfa4","response":null}
+
+
+2024-03-04 00:16:28
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e504c538e54","response":null}
+
+
+2024-03-04 00:16:41
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e504d9013bd","response":null}
+
+
+2024-03-04 00:18:59
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50562d385b","response":null}
+
+
+2024-03-04 00:20:31
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e505bec7cfc","response":null}
+
+
+2024-03-04 00:26:51
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50729a6d49","response":null}
+
+
+2024-03-04 00:27:11
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5074eb9517","response":null}
+
+
+2024-03-04 00:30:35
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5081417178","response":null}
+
+
+2024-03-04 00:30:45
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5081e4a41b","response":null}
+
+
+2024-03-04 00:30:55
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5082e9e755","response":null}
+
+
+2024-03-04 00:41:45
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50ab941d4d","response":null}
+
+
+2024-03-04 00:48:06
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50c246b1b2","response":null}
+
+
+2024-03-04 00:48:17
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50c3ab0294","response":null}
+
+
+2024-03-04 00:48:32
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50c4f71532","response":null}
+
+
+2024-03-04 00:49:21
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50c6f9c8f6","response":null}
+
+
+2024-03-04 00:49:32
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50c856b261","response":null}
+
+
+2024-03-04 00:49:41
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50c8e7252e","response":null}
+
+
+2024-03-04 00:49:52
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50c9f6de42","response":null}
+
+
+2024-03-04 00:50:29
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50cb98c176","response":null}
+
+
+2024-03-04 00:50:56
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50cce27f28","response":null}
+
+
+2024-03-04 00:51:19
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50ce583a08","response":null}
+
+
+2024-03-04 00:52:22
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50d248f000","response":null}
+
+
+2024-03-04 00:52:47
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e50d43b196c","response":null}
+
+
+2024-03-04 00:53:35
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50d6d3c6e2","response":null}
+
+
+2024-03-04 00:53:59
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50d8531bf8","response":null}
+
+
+2024-03-04 00:54:10
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50d9bbcd90","response":null}
+
+
+2024-03-04 00:54:45
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e50db3f389c","response":null}
+
+
+2024-03-04 07:16:59
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e56754913c3","response":null}
+
+
+2024-03-04 07:17:10
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5675fb4f27","response":null}
+
+
+2024-03-04 07:17:21
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5676a612b8","response":null}
+
+
+2024-03-04 07:17:32
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5677b816e0","response":null}
+
+
+2024-03-04 07:24:26
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e56913a987a","response":null}
+
+
+2024-03-04 07:24:36
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e569244da5b","response":null}
+
+
+2024-03-04 07:25:23
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5694c54879","response":null}
+
+
+2024-03-04 07:25:34
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5695d7a779","response":null}
+
+
+2024-03-04 08:07:22
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e57317a1821","response":null}
+
+
+2024-03-04 08:07:53
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e5733daf447","response":null}
+
+
+2024-03-04 08:08:47
+
+{"responseCode":"90063","responseMessage":"An error occurred on ECDH key exchange, probably wrong ecdh publicKey format shared","requestReference":"65e5736cbba78","response":null}
+
+
+2024-03-04 08:29:53
+
+{"responseCode":"90063","responseMessage":"We failed to decrypt your hashed password","requestReference":"65e578701dd04","response":null}
+
+

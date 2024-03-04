@@ -1,0 +1,20 @@
+{
+    "name": "hsemix/phoenix-client-api-integration-php",
+    "autoload": {
+        "psr-4": {
+            "Interswitch\\": "interswitch/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamid Semitala",
+            "email": "semix.hamidouh@gmail.com"
+        }
+    ],
+    "require": {
+        "phpseclib/phpseclib": "^3.0",
+        "mdanter/ecc": "^1.0",
+        "fgrosse/phpasn1": "^2.5",
+        "simplito/elliptic-php": "^1.0"
+    }
+}
